@@ -9,5 +9,5 @@ def valid_move?
     end
   end
 
-  
+
 end
